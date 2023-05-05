@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Seja bem vindo a pagina do lucas !!!
+:f
 <!--
 **LucasBoemer/LucasBoemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
